@@ -210,6 +210,7 @@ def readconfig(cfgdict):
     current working directory.
     If no config-file is found, the default configuration is used.
     """
+    ### i will change later
     default_cfg = "turtle.cfg"
     cfgdict1 = {}
     cfgdict2 = {}
